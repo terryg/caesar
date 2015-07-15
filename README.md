@@ -1,4 +1,4 @@
-# ceasar
+# Ceasar Shift
 Ruby script to perform a Caesar Shift.
 
 ```
